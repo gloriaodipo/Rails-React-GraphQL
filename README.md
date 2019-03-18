@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is a simple Web App with Rails, Webpacker, React, Graphql and ActiveStorage.
 
 * Ruby version
 
+`2.5.3`
+
 * System dependencies
 
-* Configuration
+`Rails`: A Ruby framework
 
-* Database creation
+`GraphQL`: GraphQL is a query language for APIs. It ensures UI-driven data fetching
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`React Apollo`: React Apollo allows you to fetch data from your GraphQL server and use it in building complex and reactive UIs using the React framework. React Apollo may be used in any context that React may be used.
